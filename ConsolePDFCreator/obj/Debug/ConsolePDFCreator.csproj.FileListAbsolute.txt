@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\ConsolePDFCreator.exe.config
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\ConsolePDFCreator.exe
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\ConsolePDFCreator.pdb
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\PdfSharp.dll
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\PdfSharp.xml
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\PdfSharp.Charting.xml
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\marco\source\repos\ConsolePDFCreator\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\marco\source\repos\ConsolePDFCreator\obj\Debug\ConsolePDFCreator.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ConsolePDFCreator\obj\Debug\ConsolePDFCreator.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ConsolePDFCreator\obj\Debug\ConsolePDFCreator.csproj.CopyComplete
+C:\Users\marco\source\repos\ConsolePDFCreator\obj\Debug\ConsolePDFCreator.exe
+C:\Users\marco\source\repos\ConsolePDFCreator\obj\Debug\ConsolePDFCreator.pdb
